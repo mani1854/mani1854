@@ -69,8 +69,8 @@ NumPy, Pandas
 
 ## 📫 Connect with Me
 
--   LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
--   LeetCode: https://leetcode.com/YOUR_USERNAME
+-   LinkedIn: [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/mani-chaitra/)
+-   LeetCode: [https://leetcode.com/u/manichaitra123/](https://leetcode.com/u/manichaitra123/)
 -   Email: manichaitra16@email.com
 
 ------------------------------------------------------------------------
