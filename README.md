@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mani Chaitra
 
-### B.Tech CSE Student @ IIIT Kottayam \| Full-Stack & ML Developer
+### B.Tech CSE Student @ IIIT Kottayam \
 
 ------------------------------------------------------------------------
 
