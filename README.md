@@ -128,7 +128,7 @@
 
 * 💻 **500+ DSA problems** solved across LeetCode and GeeksforGeeks
 * 🎯 **JEE Main – 97 Percentile**
-* 🏅 **JEE Advanced – AIR 20,000**
+* 🏅 **JEE Advanced – AIR 17,900**
 * 📜 Certified in **Python Programming, Data Science, and DBMS** through Infosys Springboard
 
 ---
