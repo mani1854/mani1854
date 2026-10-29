@@ -134,7 +134,7 @@
 
 ## 🏆 Achievements
 
-- 💻 Solved **500+ DSA problems** across LeetCode and GeeksforGeeks.
+- 💻 Solved **600+ DSA problems** across LeetCode and GeeksforGeeks.
 - 🎯 **JEE Main — 97 percentile**
 - 🏅 **JEE Advanced — AIR 17,900**
 - 📜 Certified in Python Programming, Data Science, and DBMS through Infosys Springboard.
