@@ -12,14 +12,14 @@
 - 🚀 Building scalable backend systems and AI-powered applications
 - 🧠 Strong foundation in **Data Structures & Algorithms, OOP, DBMS, OS, and Computer Networks**
 - 💡 Interested in **System Design, Distributed Systems, APIs, and Cloud Technologies**
-- 🏆 Solved **500+ DSA problems** across LeetCode and GeeksforGeeks
+- 🏆 Solved **600+ DSA problems** across LeetCode and GeeksforGeeks
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-`C++` `Python` `SQL` `JavaScript`
+`Python` `Java` `SQL` `JavaScript`
 
 ### ⚙️ Backend Development
 `FastAPI` `REST APIs` `Async Programming` `SQLAlchemy` `JWT Authentication` `API Integration`
@@ -61,6 +61,19 @@
 
 ---
 
+### 💰 WealthTracker — AI-Powered Wealth Management Platform
+
+**Tech Stack:** React, FastAPI, PostgreSQL, Groq LLM, SQLAlchemy, REST APIs
+
+- 💻 Developed a full-stack wealth management application using React, FastAPI, and PostgreSQL.
+- 🔐 Implemented **10+ JWT-secured REST APIs** for portfolio management and financial analytics.
+- ⚙️ Built backend services for authentication, database operations, API integration, and portfolio data processing.
+- 🧠 Integrated **Llama-3.3-70B** as an AI financial assistant using tool calling and conversational memory.
+- 📈 Automated financial data ingestion using Yahoo Finance APIs and APScheduler.
+- 💡 Implemented personalized financial insights and portfolio analytics.
+
+---
+
 ### 🔗 KLYP — Distributed URL Shortener & Analytics Platform
 
 **Tech Stack:** FastAPI, Python, PostgreSQL, Redis, Docker, GitHub Actions
@@ -91,18 +104,6 @@
 
 ---
 
-### 💰 WealthTracker — AI-Powered Wealth Management Platform
-
-**Tech Stack:** React, FastAPI, PostgreSQL, Groq LLM, SQLAlchemy, REST APIs
-
-- 💻 Developed a full-stack wealth management application using React, FastAPI, and PostgreSQL.
-- 🔐 Implemented **10+ JWT-secured REST APIs** for portfolio management and financial analytics.
-- ⚙️ Built backend services for authentication, database operations, API integration, and portfolio data processing.
-- 🧠 Integrated **Llama-3.3-70B** as an AI financial assistant using tool calling and conversational memory.
-- 📈 Automated financial data ingestion using Yahoo Finance APIs and APScheduler.
-- 💡 Implemented personalized financial insights and portfolio analytics.
-
----
 
 ## 💼 Experience
 
